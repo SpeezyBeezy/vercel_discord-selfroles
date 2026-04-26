@@ -160,3 +160,4 @@ vercel dev
 Then use [ngrok](https://ngrok.com/) or [cloudflared tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/installation/) to expose your local server, and temporarily set that URL as the Interactions Endpoint in the Developer Portal.
 # vercel_discord-selfroles
 # selfrole_templates
+# vercel_discord-selfroles
