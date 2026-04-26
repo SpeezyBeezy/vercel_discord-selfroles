@@ -1,0 +1,13 @@
+{
+  "name": "discord-role-bot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "register": "tsx scripts/register.ts",
+    "dev": "vercel dev"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.5"
+  }
+}

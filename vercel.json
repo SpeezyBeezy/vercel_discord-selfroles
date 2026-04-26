@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/interactions.ts": {
+      "runtime": "edge"
+    }
+  }
+}
